@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="src/vs/editor/contrib/caretOperations/transpose" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit id="transposeLetters.label">
+        <source xml:lang="en">Transpose Letters</source>
+        <target xml:lang="fr" state="needs-translation">Transpose Letters</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="src/vs/editor/contrib/caretOperations/caretOperations" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit id="caret.moveLeft">
+        <source xml:lang="en">Move Caret Left</source>
+        <target xml:lang="fr" state="needs-translation">Move Caret Left</target>
+      </trans-unit>
+      <trans-unit id="caret.moveRight">
+        <source xml:lang="en">Move Caret Right</source>
+        <target xml:lang="fr" state="needs-translation">Move Caret Right</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="src/vs/editor/contrib/cursorUndo/cursorUndo" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit id="cursor.undo">
+        <source xml:lang="en">Cursor Undo</source>
+        <target xml:lang="fr" state="needs-translation">Cursor Undo</target>
+      </trans-unit>
+      <trans-unit id="cursor.redo">
+        <source xml:lang="en">Cursor Redo</source>
+        <target xml:lang="fr" state="needs-translation">Cursor Redo</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="src/vs/editor/contrib/comment/comment" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit id="comment.line">
+        <source xml:lang="en">Toggle Line Comment</source>
+        <target xml:lang="fr" state="needs-translation">Toggle Line Comment</target>
+      </trans-unit>
+      <trans-unit id="miToggleLineComment">
+        <source xml:lang="en">&amp;&amp;Toggle Line Comment</source>
+        <note>&amp;&amp; denotes a mnemonic</note>
+        <target xml:lang="fr" state="needs-translation">&amp;&amp;Toggle Line Comment</target>
+      </trans-unit>
+      <trans-unit id="comment.line.add">
+        <source xml:lang="en">Add Line Comment</source>
+        <target xml:lang="fr" state="needs-translation">Add Line Comment</target>
+      </trans-unit>
+      <trans-unit id="comment.line.remove">
+        <source xml:lang="en">Remove Line Comment</source>
+        <target xml:lang="fr" state="needs-translation">Remove Line Comment</target>
+      </trans-unit>
+      <trans-unit id="comment.block">
+        <source xml:lang="en">Toggle Block Comment</source>
+        <target xml:lang="fr" state="needs-translation">Toggle Block Comment</target>
+      </trans-unit>
+      <trans-unit id="miToggleBlockComment">
+        <source xml:lang="en">Toggle &amp;&amp;Block Comment</source>
+        <note>&amp;&amp; denotes a mnemonic</note>
+        <target xml:lang="fr" state="needs-translation">Toggle &amp;&amp;Block Comment</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="src/vs/editor/contrib/tokenization/tokenization" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit id="forceRetokenize">
+        <source xml:lang="en">Developer: Force Retokenize</source>
+        <target xml:lang="fr" state="needs-translation">Developer: Force Retokenize</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="src/vs/editor/contrib/fontZoom/fontZoom" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit id="EditorFontZoomIn.label">
+        <source xml:lang="en">Editor Font Zoom In</source>
+        <target xml:lang="fr" state="needs-translation">Editor Font Zoom In</target>
+      </trans-unit>
+      <trans-unit id="EditorFontZoomOut.label">
+        <source xml:lang="en">Editor Font Zoom Out</source>
+        <target xml:lang="fr" state="needs-translation">Editor Font Zoom Out</target>
+      </trans-unit>
+      <trans-unit id="EditorFontZoomReset.label">
+        <source xml:lang="en">Editor Font Zoom Reset</source>
+        <target xml:lang="fr" state="needs-translation">Editor Font Zoom Reset</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="src/vs/editor/contrib/parameterHints/parameterHints" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit id="parameterHints.trigger.label">
+        <source xml:lang="en">Trigger Parameter Hints</source>
+        <target xml:lang="fr" state="needs-translation">Trigger Parameter Hints</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="src/vs/editor/contrib/toggleTabFocusMode/toggleTabFocusMode" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit id="toggle.tabMovesFocus">
+        <source xml:lang="en">Toggle Tab Key Moves Focus</source>
+        <note>Turn on/off use of tab key for moving focus around VS Code</note>
+        <target xml:lang="fr" state="needs-translation">Toggle Tab Key Moves Focus</target>
+      </trans-unit>
+      <trans-unit id="toggle.tabMovesFocus.on">
+        <source xml:lang="en">Pressing Tab will now move focus to the next focusable element</source>
+        <target xml:lang="fr" state="needs-translation">Pressing Tab will now move focus to the next focusable element</target>
+      </trans-unit>
+      <trans-unit id="toggle.tabMovesFocus.off">
+        <source xml:lang="en">Pressing Tab will now insert the tab character</source>
+        <target xml:lang="fr" state="needs-translation">Pressing Tab will now insert the tab character</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="src/vs/editor/contrib/bracketMatching/bracketMatching" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit id="overviewRulerBracketMatchForeground">
+        <source xml:lang="en">Overview ruler marker color for matching brackets.</source>
+        <target xml:lang="fr" state="needs-translation">Overview ruler marker color for matching brackets.</target>
+      </trans-unit>
+      <trans-unit id="smartSelect.jumpBracket">
+        <source xml:lang="en">Go to Bracket</source>
+        <target xml:lang="fr" state="needs-translation">Go to Bracket</target>
+      </trans-unit>
+      <trans-unit id="smartSelect.selectToBracket">
+        <source xml:lang="en">Select to Bracket</source>
+        <target xml:lang="fr" state="needs-translation">Select to Bracket</target>
+      </trans-unit>
+      <trans-unit id="miGoToBracket">
+        <source xml:lang="en">Go to &amp;&amp;Bracket</source>
+        <note>&amp;&amp; denotes a mnemonic</note>
+        <target xml:lang="fr" state="needs-translation">Go to &amp;&amp;Bracket</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="src/vs/editor/contrib/clipboard/clipboard" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit id="actions.clipboard.cutLabel">
+        <source xml:lang="en">Cut</source>
+        <target xml:lang="fr" state="needs-translation">Cut</target>
+      </trans-unit>
+      <trans-unit id="miCut">
+        <source xml:lang="en">Cu&amp;&amp;t</source>
+        <note>&amp;&amp; denotes a mnemonic</note>
+        <target xml:lang="fr" state="needs-translation">Cu&amp;&amp;t</target>
+      </trans-unit>
+      <trans-unit id="actions.clipboard.copyLabel">
+        <source xml:lang="en">Copy</source>
+        <target xml:lang="fr" state="needs-translation">Copy</target>
+      </trans-unit>
+      <trans-unit id="miCopy">
+        <source xml:lang="en">&amp;&amp;Copy</source>
+        <note>&amp;&amp; denotes a mnemonic</note>
+        <target xml:lang="fr" state="needs-translation">&amp;&amp;Copy</target>
+      </trans-unit>
+      <trans-unit id="actions.clipboard.pasteLabel">
+        <source xml:lang="en">Paste</source>
+        <target xml:lang="fr" state="needs-translation">Paste</target>
+      </trans-unit>
+      <trans-unit id="miPaste">
+        <source xml:lang="en">&amp;&amp;Paste</source>
+        <note>&amp;&amp; denotes a mnemonic</note>
+        <target xml:lang="fr" state="needs-translation">&amp;&amp;Paste</target>
+      </trans-unit>
+      <trans-unit id="actions.clipboard.copyWithSyntaxHighlightingLabel">
+        <source xml:lang="en">Copy With Syntax Highlighting</source>
+        <target xml:lang="fr" state="needs-translation">Copy With Syntax Highlighting</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="src/vs/editor/contrib/contextmenu/contextmenu" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit id="action.showContextMenu.label">
+        <source xml:lang="en">Show Editor Context Menu</source>
+        <target xml:lang="fr" state="needs-translation">Show Editor Context Menu</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="src/vs/editor/contrib/format/formatActions" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit id="formatDocument.label">
+        <source xml:lang="en">Format Document</source>
+        <target xml:lang="fr" state="needs-translation">Format Document</target>
+      </trans-unit>
+      <trans-unit id="formatSelection.label">
+        <source xml:lang="en">Format Selection</source>
+        <target xml:lang="fr" state="needs-translation">Format Selection</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="src/vs/editor/contrib/inPlaceReplace/inPlaceReplace" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit id="InPlaceReplaceAction.previous.label">
+        <source xml:lang="en">Replace with Previous Value</source>
+        <target xml:lang="fr" state="needs-translation">Replace with Previous Value</target>
+      </trans-unit>
+      <trans-unit id="InPlaceReplaceAction.next.label">
+        <source xml:lang="en">Replace with Next Value</source>
+        <target xml:lang="fr" state="needs-translation">Replace with Next Value</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="src/vs/editor/contrib/hover/hover" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit id="showHover">
+        <source xml:lang="en">Show Hover</source>
+        <note>Label for action that will trigger the showing of a hover in the editor.
+This allows for users to show the hover without using the mouse.</note>
+        <target xml:lang="fr" state="needs-translation">Show Hover</target>
+      </trans-unit>
+      <trans-unit id="showDefinitionPreviewHover">
+        <source xml:lang="en">Show Definition Preview Hover</source>
+        <note>Label for action that will trigger the showing of definition preview hover in the editor.
+This allows for users to show the definition preview hover without using the mouse.</note>
+        <target xml:lang="fr" state="needs-translation">Show Definition Preview Hover</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="src/vs/editor/contrib/rename/rename" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit id="no result">
+        <source xml:lang="en">No result.</source>
+        <target xml:lang="fr" state="needs-translation">No result.</target>
+      </trans-unit>
+      <trans-unit id="resolveRenameLocationFailed">
+        <source xml:lang="en">An unknown error occurred while resolving rename location</source>
+        <target xml:lang="fr" state="needs-translation">An unknown error occurred while resolving rename location</target>
+      </trans-unit>
+      <trans-unit id="label_Duplicated1">
+        <source xml:lang="en">Renaming '{0}'</source>
+        <target xml:lang="fr" state="needs-translation">Renaming '{0}'</target>
+      </trans-unit>
+      <trans-unit id="aria">
+        <source xml:lang="en">Successfully renamed '{0}' to '{1}'. Summary: {2}</source>
+        <target xml:lang="fr" state="needs-translation">Successfully renamed '{0}' to '{1}'. Summary: {2}</target>
+      </trans-unit>
+      <trans-unit id="rename.failedApply">
+        <source xml:lang="en">Rename failed to apply edits</source>
+        <target xml:lang="fr" state="needs-translation">Rename failed to apply edits</target>
+      </trans-unit>
+      <trans-unit id="rename.failed">
+        <source xml:lang="en">Rename failed to compute edits</source>
+        <target xml:lang="fr" state="needs-translation">Rename failed to compute edits</target>
+      </trans-unit>
+      <trans-unit id="rename.label">
+        <source xml:lang="en">Rename Symbol</source>
+        <target xml:lang="fr" state="needs-translation">Rename Symbol</target>
+      </trans-unit>
+      <trans-unit id="enablePreview">
+        <source xml:lang="en">Enable/disable the ability to preview changes before renaming</source>
+        <target xml:lang="fr" state="needs-translation">Enable/disable the ability to preview changes before renaming</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="src/vs/editor/contrib/smartSelect/smartSelect" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit id="smartSelect.expand">
+        <source xml:lang="en">Expand Selection</source>
+        <target xml:lang="fr" state="needs-translation">Expand Selection</target>
+      </trans-unit>
+      <trans-unit id="miSmartSelectGrow">
+        <source xml:lang="en">&amp;&amp;Expand Selection</source>
+        <note>&amp;&amp; denotes a mnemonic</note>
+        <target xml:lang="fr" state="needs-translation">&amp;&amp;Expand Selection</target>
+      </trans-unit>
+      <trans-unit id="smartSelect.shrink">
+        <source xml:lang="en">Shrink Selection</source>
+        <target xml:lang="fr" state="needs-translation">Shrink Selection</target>
+      </trans-unit>
+      <trans-unit id="miSmartSelectShrink">
+        <source xml:lang="en">&amp;&amp;Shrink Selection</source>
+        <note>&amp;&amp; denotes a mnemonic</note>
+        <target xml:lang="fr" state="needs-translation">&amp;&amp;Shrink Selection</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="src/vs/editor/contrib/gotoSymbol/link/goToDefinitionAtPosition" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit id="multipleResults">
+        <source xml:lang="en">Click to show {0} definitions.</source>
+        <target xml:lang="fr" state="needs-translation">Click to show {0} definitions.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
