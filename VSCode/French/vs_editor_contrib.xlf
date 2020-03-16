@@ -10,9 +10,9 @@
   </file>
   <file original="src/vs/editor/contrib/caretOperations/caretOperations" source-language="en" datatype="plaintext" target-language="fr">
     <body>
-      <trans-unit id="caret.moveLeft" approved="yes">
+      <trans-unit id="caret.moveLeft">
         <source xml:lang="en">Move Caret Left</source>
-        <target xml:lang="fr" state="final">Move Caret Left-LynneMS-github</target>
+        <target xml:lang="fr" state="translated">Trans3-LynneD-Crowdin-Translated</target>
         <alt-trans>
           <target xml:lang="fr">Trans2-CrowdIn-LynneD</target>
         </alt-trans>
@@ -20,6 +20,9 @@
       <trans-unit id="caret.moveRight" approved="yes">
         <source xml:lang="en">Move Caret Right</source>
         <target xml:lang="fr" state="final">Trans3-LynneD-Crowdin</target>
+        <alt-trans>
+          <target xml:lang="fr">Trans2-CrowdIn-LynneD-Github-LynnedongMS</target>
+        </alt-trans>
       </trans-unit>
     </body>
   </file>
