@@ -12,7 +12,7 @@
     <body>
       <trans-unit id="caret.moveLeft">
         <source xml:lang="en">Move Caret Left</source>
-        <target xml:lang="fr" state="needs-translation">Move Caret Left</target>
+        <target xml:lang="fr" state="final">Move Caret Left-LynneMS-github</target>
       </trans-unit>
       <trans-unit id="caret.moveRight">
         <source xml:lang="en">Move Caret Right</source>
