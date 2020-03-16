@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="transposeLetters.label">
         <source xml:lang="en">Transpose Letters</source>
-        <target xml:lang="fr" state="needs-translation">Transpose Letters</target>
+        <target xml:lang="fr" state="translated">Trans1-CrowdIn-LynneMS</target>
       </trans-unit>
     </body>
   </file>
